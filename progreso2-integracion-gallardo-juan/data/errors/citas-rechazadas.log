@@ -1,0 +1,5 @@
+FechaHora: 2026-06-04T20:29:14.068068400
+idCita: CITA-1005
+Motivo: El campo paciente es obligatorio.
+Payload: {idCita='CITA-1005', paciente='', correo='paciente@email.com', especialidad='Dermatologia', fechaCita='2026-06-18', sede='Centro Sur', valor=30.0}
+--------------------------------------------------
